@@ -8,3 +8,6 @@ C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\WindowsFormsApplication9\Wi
 C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
 C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
 C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+G:\ooad\grocery-panda\Client\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+G:\ooad\grocery-panda\Client\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+G:\ooad\grocery-panda\Client\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
